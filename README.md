@@ -1,6 +1,6 @@
 # pacman
 
-This is my project from university
+This is my project from university \n
 In short: creating a Pac-man clone with limitations in technology
 
 The project has many limitations, incliuded in the 2223S_GUI_PRO2.pdf file
